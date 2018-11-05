@@ -16,3 +16,6 @@ end
   
 def last_element
   my_new_array.last
+end
+
+def 
