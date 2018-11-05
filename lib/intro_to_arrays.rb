@@ -14,7 +14,7 @@ end
    my_new_array[2]
  end
   
-def last_element)(my_new_array)
+def last_element(my_new_array)
   my_new_array.last
 end
 
