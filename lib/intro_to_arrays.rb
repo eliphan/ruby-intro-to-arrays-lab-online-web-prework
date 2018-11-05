@@ -7,7 +7,7 @@ end
  end
  
  def first_element
-   my_new_array[0]
+   my_new_array.first
  end
  
  def third_element
@@ -18,4 +18,3 @@ def last_element
   my_new_array.last
 end
 
-def 
