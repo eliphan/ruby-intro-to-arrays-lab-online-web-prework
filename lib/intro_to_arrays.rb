@@ -6,9 +6,9 @@ end
    my_two_array = ["element1", "element2"]
  end
  
- def indexing
+ def first_element
    my_two_array[0]
  end
  
- 
+ def 
  
