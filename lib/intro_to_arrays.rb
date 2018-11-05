@@ -7,6 +7,6 @@ end
  end
  
  def indexing
-   my_new_array.index
+   my_two_array
  end
  
