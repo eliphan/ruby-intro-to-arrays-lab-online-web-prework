@@ -6,3 +6,5 @@ end
    my_two_array = ["element1", "element2"]
  end
  
+ def indexing
+   my_new_array
