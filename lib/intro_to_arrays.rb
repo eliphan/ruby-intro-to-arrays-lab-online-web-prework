@@ -6,11 +6,11 @@ end
    my_two_array = ["element1", "element2"]
  end
  
- def first_element(my_new_array)
+ def first_element
    my_new_array.first
  end
  
- def third_element(my_new_array)
+ def third_element
    my_new_array[2]
  end
   
