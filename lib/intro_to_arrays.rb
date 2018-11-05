@@ -7,8 +7,11 @@ end
  end
  
  def first_element
-   my_two_array[0]
+   my_new_array[0]
  end
  
- def 
- 
+ def third_element
+   my_new_array[2]
+ end
+  
+def 
